@@ -1,5 +1,5 @@
 # Hello, I'm Anuj
-Check out my linkdin profile, click on linkdin icon <a href="https://www.linkedin.com/in/anuj-sharma-7a272a187/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Check out my linkedin profile, click on linkedin icon <a href="https://www.linkedin.com/in/anuj-sharma-7a272a187/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a working professional with 3 years of experience in Cyber Security field. I have a profound interest in Cloud Security and a dedication to solving complex problems.
 
